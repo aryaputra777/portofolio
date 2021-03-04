@@ -11,7 +11,7 @@ export default function Achiev() {
                     <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-gray-800">
                         <img
                             alt="..."
-                            src="/finalist.png"
+                            src="/finalist.PNG"
                             className="static h-52 w-full align-middle rounded-t-lg"
                         />
                         
