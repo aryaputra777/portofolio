@@ -15,7 +15,7 @@ export default function Project() {
                       <h5 className="text-xl font-semibold pb-1 text-center">
                         NJKI 
                       </h5>
-                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Aplikasi melakukan pengajuan NOTA JUSTIFIKASI KEBUTUHAN INVESTASI CAPEX, yang akan di review secara eskalasi dan dapat di tracking hingga proses Signing yang terintegrasi dengan Peruri Digital Sign </p>
+                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">The application submits a MOMENT OF JUSTIFICATION OF CAPEX INVESTMENT NEEDS, which will be reviewed in escalation and can be tracked until the Signing process is integrated with Peruri Digital Signature </p>
                         <Link href="/">
                         <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-red-500 w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                           <Image
@@ -32,7 +32,7 @@ export default function Project() {
                       <h5 className="text-xl font-semibold pb-4 text-center">
                         Dismantle AP
                       </h5>
-                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Aplikasi melakukan pengajuan Dismantle AP yang menjadi kandidat, yang diajukan oleh TREG maupun WITEL kemudian akan di review oleh DSS-WDM dan DSS-GAS. </p>
+                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Applications to submit Dismantle AP which are candidates, submitted by TREG and WITEL will then be reviewed </p>
                         <Link href="/">
                         <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                           <Image
@@ -51,7 +51,7 @@ export default function Project() {
                       <h5 className="text-xl font-semibold pb-4 text-center">
                         SBR Teknis
                       </h5>
-                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Aplikasi melakukan pengajuan Spesial Binis Request, yang dilakukan eskalasi, POC hingga Go Live. </p>
+                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">The application submits a Special Business Request, which is carried out by escalation, POC to Go Live. </p>
                        <br/>
                         <Link href="/">
                         <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
@@ -69,7 +69,7 @@ export default function Project() {
                       <h5 className="text-xl font-semibold pb-4 text-center">
                         Surveillance Telkomsel
                       </h5>
-                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Aplikasi Monitoring GPN/XGPON, BSS 2G/3G/4G /5G, dan IP Radio Access se NASIONAL dengan per 3 menit Update </p>
+                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Application Monitoring GPN/XGPON, BSS 2G/3G/4G /5G, and IP Radio Access nationwide with every 3 minutes Update </p>
                         <Link href="/">
                         <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                           <Image
@@ -86,7 +86,7 @@ export default function Project() {
                       <h5 className="text-xl font-semibold pb-4 text-center">
                         NITS Council
                       </h5>
-                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">Aplikasi Portal NITS Council untuk Dokumen, NEWS, Kegiatan serta Komite Kerja dilingkungan TELKOM GROUP </p>
+                      <p className="text-gray-600 text-sm text-center font-semibold mb-4">NITS Council Portal Application for Documents, NEWS, Activities and Working Committees within TELKOM GROUP </p>
                         <Link href="/">
                         <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                           <Image

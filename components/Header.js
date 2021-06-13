@@ -62,10 +62,9 @@ const transition = (duration) =>
             />
           </h1>
           <h1 className="text-white text-sm mt-5">
-            I like something new that is challenging, has a great willingness, honest, diligent,
-            and happy to work with the team. I guess describe a bit about me, i’m not all that
-            good at talking about myself, but i’ll give it a shot in my CV, I have an idealism
-            that I believe in effort and hard work not betray the results.
+          I'm helping company to do digital transformation adopting agile process with scrum methodology. I can enhance end to end development process from business idea, product conception, development, UAT, and production support. I'm also able to improve operation excellent of company within technology to analyze operation efficiency.
+          I have 4 years experiences in industry Telecommunication.
+          Currently, I'm working in Telkom Indonesia.
           </h1>
 
           <ScrollLink to="project" smooth={true}>

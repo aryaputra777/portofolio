@@ -34,26 +34,36 @@ export default function Work() {
                         <h1>PROHIRE</h1>
                         <h1>MAR 2020 - Present</h1>
                         <h1>Area DKI Jakarta</h1>
-                        <ul class="list-disc space-y-2 pb-3">
-                          <li class="flex items-start">
-                            <span class="h-6 flex items-center sm:h-7">
-                              <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                        <ul className="list-disc space-y-2 pb-3">
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                               </svg>
                             </span>
-                            <p class="ml-2">
-                              Develop Aplikasi dilingkungan Network IT Solution
-                              <code class="text-sm font-bold text-gray-900"> (NITS)</code>
+                            <p className="ml-2">
+                               Development Aplication in Direktorat Network IT Solution
+                              <code className="text-sm font-bold text-gray-900"> (NITS)</code>
                             </p>
                           </li>
-                          <li class="flex items-start">
-                            <span class="h-6 flex items-center sm:h-7">
-                              <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                               </svg>
                             </span>
-                            <p class="ml-2">
-                                Technical Writter pada aplikasi yang di bangun
+                            <p className="ml-2">
+                                Techincal Writter Application in Directorat Network IT Solution
+                            </p>
+                          </li>
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+                              </svg>
+                            </span>
+                            <p className="ml-2">
+                                Security Tester Application in Directorat Network IT Solution
                             </p>
                           </li>
                         </ul>
@@ -79,36 +89,36 @@ export default function Work() {
                         <h1 className="uppercase font-semibold">IT Technical Support</h1>
                         <h1>DEC 2017 - Februari 2020</h1>
                         <h1 className="max-w-md">Telkomsel Regional Papua dan Maluku</h1>
-                        <ul class="list-disc space-y-2 max-w-md pb-3">
-                          <li class="flex items-start">
-                            <span class="h-6 flex items-center sm:h-7">
-                              <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                        <ul className="list-disc space-y-2 max-w-md pb-3">
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                               </svg>
                             </span>
-                            <p class="ml-2">
-                              Develop Aplikasi dilingkungan Sales Regional Papua dan Maluku
-                              <code class="text-sm font-bold text-gray-900"> ( PUMA )</code>
+                            <p className="ml-2">
+                              Development Aplication in Sales Regional Papua dan Maluku
+                              <code className="text-sm font-bold text-gray-900"> ( PUMA )</code>
                             </p>
                           </li>
-                          <li class="flex items-start">
-                            <span class="h-6 flex items-center sm:h-7">
-                              <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                               </svg>
                             </span>
-                            <p class="ml-2">
-                                Bertanggung jawab terhadap server dan databases
+                            <p className="ml-2">
+                                Responsible for Server and Databases.
                             </p>
                           </li>
-                          <li class="flex items-start">
-                            <span class="h-6 flex items-center sm:h-7">
-                              <svg class="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
+                          <li className="flex items-start">
+                            <span className="h-6 flex items-center sm:h-7">
+                              <svg className="flex-shrink-0 h-5 w-5 text-cyan-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                               </svg>
                             </span>
-                            <p class="ml-2">
-                                Crawling Data dari berbagai server dan database untuk kemudian di analyst dan report
+                            <p className="ml-2">
+                                Data Analyst & Data Engineer
                             </p>
                           </li>
                         </ul>
