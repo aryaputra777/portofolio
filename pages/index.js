@@ -18,8 +18,8 @@ export default function Home() {
       </Head>
       <Navbar/>
       <Header/>
-      <Education/>
       <Work/>
+      <Education/>
       <Project/>
       <Skill/>
       <Ach/>

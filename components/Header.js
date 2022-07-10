@@ -62,9 +62,8 @@ const transition = (duration) =>
             />
           </h1>
           <h1 className="text-white text-sm mt-5">
-          I'm helping company to do digital transformation adopting agile process with scrum methodology. I can enhance end to end development process from business idea, product conception, development, UAT, and production support. I'm also able to improve operation excellent of company within technology to analyze operation efficiency.
-          I have 4 years experiences in industry Telecommunication.
-          Currently, I'm working in Telkom Indonesia.
+          a man who always learns new things and is never satisfied with the knowledge he has acquired, and don't stop when it get hard, but stop when it get done.
+          Software Engineer Enthusiast
           </h1>
 
           <ScrollLink to="project" smooth={true}>
@@ -97,7 +96,7 @@ const transition = (duration) =>
                 >
                   <i className="fab fa-linkedin"></i>
                 </button>
-                <button  onClick={()=> window.open("https://github.com/cupu212", "_blank")}
+                <button  onClick={()=> window.open("https://github.com/aryaputra777", "_blank")}
                   className="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >

@@ -16,11 +16,7 @@ export default {
       text: ['Hello...', "My Name is Arya Putra.", 'I am '],
       typical: [
         'Software Engineer 🖥',
-        2000,
-        'Data Engineer. 📹',
-        2000,
-        'Data Analyst',
-        2000,
+        2000
       ],
       btnText: 'Discover More',
     },
@@ -37,12 +33,12 @@ export default {
       title: 'Programming Language',
       tech: [
         {
-          img: '/pyhon.png',
-          alt: 'python',
+          img: '/java-logo.png',
+          alt: 'java',
         },
         {
-          img: '/PHP-logo.svg',
-          alt: 'PHP',
+          img: '/pyhon.png',
+          alt: 'python',
         },
         {
           img: '/javascript.png',
@@ -59,6 +55,10 @@ export default {
       title: 'Stack',
       tech: [
         {
+          img: '/spring.png',
+          alt: 'Spring Boot',
+        },
+        {
           img: '/flask.png',
           alt: 'Flask',
         },
@@ -69,10 +69,6 @@ export default {
         {
           img: '/nextlogo.png',
           alt: 'Next JS',
-        },
-        {
-          img: '/laravel.png',
-          alt: 'Laravel',
         },
         {
           img: '/gofiber.png',
